@@ -1,0 +1,21 @@
+.list-item-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.timeAccessed {
+  margin: 20px;
+}
+.delete-button {
+  height: 30px;
+  width: 30px;
+}
+.botton-container {
+  margin-right: 20px;
+  background-color: transparent;
+  border-width: 0px;
+  cursor: pointer;
+}
+.item-container {
+  display: flex;
+}

@@ -1,0 +1,23 @@
+.bg-container {
+  background-color: #3367d6;
+  background-size: cover;
+  height: 10vh;
+  display: flex;
+  justify-content: space-around;
+}
+.app-logo {
+  height: 20px;
+  width: 60px;
+ 
+  margin-top: 20px;
+}
+.search-input {
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+ 
+}
+.search-input {
+  height: 20px;
+  width: 50px;
+}
